@@ -11,8 +11,8 @@ This application helps teachers automate the computation of scores for thousands
 ## Usage
 Exams in dataset folder, each file is a set of lines, each line structured with below format
 ```N00000021,B,A,C,D,C,C,D,D,C,C,D,B,,B,A,C,B,,A,D,A,A,B,D,``` <br />
-26 values are separated by a comma, first value is student id, next 25 values are questions answers of that students. Answers can be one of the following:
-*None (This means student skipped that question)*
+26 values are separated by a comma, first value is student id, next 25 values are questions answers of that students. Answers can be one of the following: <br />
+*None (This means student skipped that question)* <br />
 *Letter amongs A,B,C,D* <br />
 Edit this line in *lastname_firstname_grade_the_exams.py* to whatever answers key you have:
 ```answer_key = ["B", "A", "D", "D", "C", "B", "D", "A", "C", "C", "D", "B", "A", "B", "A", "C", "B", "D", "A", "C", "A", "A", "B", "D", "D"]```<br />
