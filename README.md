@@ -14,7 +14,7 @@ Exams in dataset folder, each file is a set of lines, each line structured with 
 26 values are separated by a comma, first value is student id, next 25 values are questions answers of that students. Answers can be one of the following: <br />
 *None (This means student skipped that question)* <br />
 *Letter amongs A,B,C,D* <br />
-Edit this line in *lastname_firstname_grade_the_exams.py* to whatever answers key you have:
+Edit this line in *lastname_firstname_grade_the_exams.py* to whatever answers key you have: <br />
 ```answer_key = ["B", "A", "D", "D", "C", "B", "D", "A", "C", "C", "D", "B", "A", "B", "A", "C", "B", "D", "A", "C", "A", "A", "B", "D", "D"]```<br />
 Then run the code
 ```python lastname_firstname_grade_the_exams.py```
