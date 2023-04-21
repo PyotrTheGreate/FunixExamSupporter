@@ -45,6 +45,6 @@ Question that most people skip: 3 - 4 - 0.2 , 5 - 4 - 0.2 , 23 - 4 - 0.2
 Question that most people answer incorrectly: 10 - 4 - 0.20, 14 - 4 - 0.20, 16 - 4 - 0.20, 19 - 4 - 0.20, 22 - 4 - 0.20
 ```
 ## About Author
-A passionate IT engineer with specialist skills in Artificial Intelligence and Cyber Security
-Contact me for work: **hoangnt@vinorsoft.com**
-Phone: **+84978763468**
+A passionate IT engineer with specialist skills in Artificial Intelligence and Cyber Security.
+Contact me for work: **hoangnt@vinorsoft.com**.
+Phone: **+84978763468**.
